@@ -4,15 +4,55 @@
   "keywords": [
     "defi"
   ],
-  "timestamp": "2021-11-07T05:50:51+00:00",
+  "timestamp": "2021-11-07T06:11:02+00:00",
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "name": "Wrapped Bitcoin",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
+      "address": "",
+      "name": "USDV",
+      "symbol": "USDV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11375/thumb/vether-symbol-coingecko.png?1622341592"
+    },
+    {
+      "chainId": 42,
+      "address": "0xE90E0A75694Fc97576868243AD0364d10291f48A",
+      "name": "USDV",
+      "symbol": "USDV",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11375/thumb/vether-symbol-coingecko.png?1622341592"
+    },
+    {
+      "chainId": 1,
+      "address": "",
+      "name": "VADER",
+      "symbol": "VADER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11375/thumb/vether-symbol-coingecko.png?1622341592"
+    },
+    {
+      "chainId": 42,
+      "address": "0xE8bD273f54a990007b1069a15b66B584abc86e04",
+      "name": "VADER",
+      "symbol": "VADER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11375/thumb/vether-symbol-coingecko.png?1622341592"
+    },
+    {
+      "chainId": 1,
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700"
+    },
+    {
+      "chainId": 42,
+      "address": "0xa36085F69e2889c224210F603D836748e7dC0088",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700"
     },
     {
       "chainId": 1,
@@ -23,12 +63,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
     },
     {
-      "chainId": 1,
-      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
-      "name": "Chainlink",
-      "symbol": "LINK",
+      "chainId": 42,
+      "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
+      "name": "WETH",
+      "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700"
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/thumb/weth.png?1547036627"
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+      "chainId": 42,
+      "address": "0xa0a5ad2296b38bd3e3eb59aaeaf1589e8d9a29a9",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
     }
   ],
   "version": {
