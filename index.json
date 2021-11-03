@@ -8,7 +8,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0xe90e0a75694fc97576868243ad0364d10291f48a",
+      "address": "0xfd87ba583bd2071713fb5CB12086536a26eec18e",
       "name": "USDV",
       "symbol": "USDV",
       "decimals": 18,
@@ -16,7 +16,7 @@
     },
     {
       "chainId": 42,
-      "address": "0xe90e0a75694fc97576868243ad0364d10291f48a",
+      "address": "0xfd87ba583bd2071713fb5CB12086536a26eec18e",
       "name": "USDV",
       "symbol": "USDV",
       "decimals": 18,
@@ -24,7 +24,7 @@
     },
     {
       "chainId": 1,
-      "address": "0xe8bd273f54a990007b1069a15b66b584abc86e04",
+      "address": "0x4ad25191285440992981B5B840F164b026bCE2A8",
       "name": "VADER",
       "symbol": "VADER",
       "decimals": 18,
@@ -32,7 +32,7 @@
     },
     {
       "chainId": 42,
-      "address": "0xe8bd273f54a990007b1069a15b66b584abc86e04",
+      "address": "0x4ad25191285440992981B5B840F164b026bCE2A8",
       "name": "VADER",
       "symbol": "VADER",
       "decimals": 18,
