@@ -8,7 +8,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "",
+      "address": "0xE90E0A75694Fc97576868243AD0364d10291f48A",
       "name": "USDV",
       "symbol": "USDV",
       "decimals": 18,
@@ -24,7 +24,7 @@
     },
     {
       "chainId": 1,
-      "address": "",
+      "address": "0xE8bD273f54a990007b1069a15b66B584abc86e04",
       "name": "VADER",
       "symbol": "VADER",
       "decimals": 18,
