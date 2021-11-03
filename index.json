@@ -24,7 +24,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x4ad25191285440992981B5B840F164b026bCE2A8",
+      "address": "0x4ad25191285440992981b5b840f164b026bce2a8",
       "name": "VADER",
       "symbol": "VADER",
       "decimals": 18,
@@ -32,7 +32,7 @@
     },
     {
       "chainId": 42,
-      "address": "0x4ad25191285440992981B5B840F164b026bCE2A8",
+      "address": "0x4ad25191285440992981b5b840f164b026bce2a8",
       "name": "VADER",
       "symbol": "VADER",
       "decimals": 18,
